@@ -1,0 +1,9 @@
+.BsFillPlusSquareFill{
+    display: flex;
+    margin-top: 5px;
+    
+    gap: 5px;
+    font-size: xxx-large;
+    color: white;
+    cursor: pointer;
+}

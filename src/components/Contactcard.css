@@ -1,0 +1,48 @@
+.contact {
+    background-color: #fefebf;
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 15px;
+    height: 50px;
+    margin: 5px 5px;
+    padding: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
+  }
+  
+  .icon1 {
+    font-size: 3rem;
+    color: orange;
+  }
+  
+  .data {
+    flex-grow: 2;
+    font-weight: bold;
+  }
+  
+  h2 {
+    margin: 0;
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  p {
+    margin: 0;
+    font-size: 1rem;
+    color: #555;
+  }
+  
+  .edit-icon {
+    color: blue;
+    cursor: pointer;
+    font-size: 2.3rem;
+    
+  }
+  
+  .delete-icon {
+    color: red;
+    font-size: 2.3rem;
+    cursor: pointer;
+  }
+  
